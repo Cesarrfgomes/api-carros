@@ -1,4 +1,4 @@
-# PDV 
+# Carros
 
 É uma API RESTful desenvolvida com Node.js e Express 4 que através de operações CRUD, com persistência em banco de dados PostgresSQL.
 
